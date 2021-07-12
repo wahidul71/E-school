@@ -10,6 +10,9 @@
 .nav-link{
     color: #000;
 }
+.nav-item a{
+    color: #000!important;
+}
 .sign-in{
     background-color: #21B573;
     border-radius: 100px;
@@ -114,6 +117,19 @@
     margin-right: 10px;
 }
 footer{
-    background-color: #000;
-    height: 280px;
+    background-color: #282531;
+    min-height: 280px;
+}
+.footer{
+    padding-top: 30px;
+    color: #D9D8DA;
+}
+.footer p{
+    font-size: 10px;
+    
+}
+.footer-copy{
+    text-align: center;
+    font-size: 14px!important;
+    padding-top: 20px;
 }
